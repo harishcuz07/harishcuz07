@@ -24,7 +24,7 @@ This repository is organized as follows:
 ---
 
 ### 🎯 **Example Projects:**
-- **Selenium WebDriver**: [Login Test](https://github.com/your-username/qa-testing-portfolio/tree/main/selenium-java)
+- **Selenium WebDriver**: [Login Test](src/test/java/SeleniumConcept/BrowserLauchAndWebDriverMethodsConcept.java)
 - **Cucumber**: [Google Login BDD](https://github.com/your-username/qa-testing-portfolio/tree/main/cucumber-java)
 - **RestAssured**: [API Authentication Test](https://github.com/your-username/qa-testing-portfolio/tree/main/api-testing)
 - **JMeter**: [Load Testing on an API](https://github.com/your-username/qa-testing-portfolio/tree/main/performance-testing)
