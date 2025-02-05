@@ -24,7 +24,7 @@ This repository is organized as follows:
 ---
 
 ### 🎯 **Example Projects:**
-- **Selenium WebDriver**: [Lancing](.settings/org.eclipse.m2e.core.prefs)
+- **Selenium WebDriver**: [Lancing](https://github.com/harishcuz07/Qa-Testing-portfolio)
 - **Cucumber**: [Google Login BDD](https://github.com/your-username/qa-testing-portfolio/tree/main/cucumber-java)
 - **RestAssured**: [API Authentication Test](https://github.com/your-username/qa-testing-portfolio/tree/main/api-testing)
 - **JMeter**: [Load Testing on an API](https://github.com/your-username/qa-testing-portfolio/tree/main/performance-testing)
