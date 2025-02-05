@@ -29,7 +29,4 @@ This repository is organized as follows:
 - **RestAssured**: [API Authentication Test](https://github.com/your-username/qa-testing-portfolio/tree/main/api-testing)
 - **JMeter**: [Load Testing on an API](https://github.com/your-username/qa-testing-portfolio/tree/main/performance-testing)
 
-### 💡 **How to Use This Repository:**
-1. Clone the repository to your local machine using: 
-   ```bash
-   git clone https://github.com/your-username/qa-testing-portfolio.git
+
